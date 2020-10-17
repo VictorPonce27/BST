@@ -1,3 +1,6 @@
+//
+// Victor Ponce 
+//
 #ifndef BST_h 
 #define BST_h 
 
