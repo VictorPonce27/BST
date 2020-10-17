@@ -1,0 +1,25 @@
+Errase node 
+
+1.Borrar nodo hoja(no tiene hijos)
+
+1. buscar 
+2. encon
+4. el apuntatrarlodor hacia elnodo a borrar ahora apunta a nulo
+3. borrar
+
+2. Borrar nodo con un hijo 
+
+1. buscar
+2. encontrarlo
+3. el apudnatdor hacia el nodo a borrar ahora apunta al nodo hijo
+4. borrar nodo a buscar 
+
+3. Borrar nodos con 2 hijos 
+
+1. buscar
+2. encontrarlo
+3. buscar el valor mas grande del sub arbol de la izquierda
+4. remplazar el valor del nodo a borrar por el nodo sub mas grande
+5. borramos nodo encontrado con o sin hijos; 
+
+aux->data = temp->left->data;
